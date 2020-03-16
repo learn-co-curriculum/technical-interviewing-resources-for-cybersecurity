@@ -1,6 +1,8 @@
 ## **Technical Interviewing Resources for Cybersecurity**
 
-These resources can aid your cybersecurity technical interviewing prep.
+Here is a list of [Sample Technical Interview Questions & Areas of Concentration for a Cybersecurity Analytics Role](https://drive.google.com/file/d/1nm0UrNleU0Oq_ueK7j4qy6Kdh6t6SerG/view?usp=sharing)
+
+These additional resources can also aid your cybersecurity technical interviewing prep.
 
 [Youtube](www.youtube.com) and [LinkedIn](www.linkedin.com) are full of videos and resources on technical interview formats and interview questions. An example of one: [Edureka! Cybersecurity Interview Questions and Answers](https://www.youtube.com/watch?v=otWst36CKyM)
 
